@@ -1,4 +1,4 @@
-# 📊 Projet d'Analyse WooCommerce & Recommandations Produits
+# Projet d'Analyse WooCommerce & Recommandations Produits
 
 Ce projet propose :  
 - Des **scripts d’analyse et de visualisation** autour d’une base WooCommerce (dump SQL fourni).  
